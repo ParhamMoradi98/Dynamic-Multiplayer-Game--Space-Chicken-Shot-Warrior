@@ -19,4 +19,4 @@ Space Chicken Shot Warrior is a multiplayer space game where players control spa
  
  ## How to Run
 Compile and run the main class to start the game.
-Controls
+
